@@ -1,0 +1,15 @@
+/*--------------------------- BODY RESET---------------------------------- */
+
+body{
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+    color: #616971;
+}
+
+
+/*---------------------- BOOTSTRAP MOBILE GUTTER FIX---------------------*/
+
+.row, .container-fluid{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
